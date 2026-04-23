@@ -4,7 +4,7 @@ An interactive web dashboard for exploring bacterial diversity across human samp
 
 🔗 **[Live Demo → microbiome-explorer.netlify.app](https://microbiome-explorer.netlify.app/)**
 
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](Screenshot.png) 
 
 ---
 
